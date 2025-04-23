@@ -5,7 +5,7 @@ Hi! I'm Derrick. I love researching tools, solving problems, writing small proje
 嗨！我是余翔泰，喜歡研究工具、解決問題，自己會寫一些小專案、剪輯影片
 
 * 📫 **Contact me / 聯絡我:** <a href="mailto:jeesiangthai@gmail.com" target="_blank">jeesiangthai@gmail.com</a>
-* 🚀 **Currently working on / 目前的在做的專案:** <a href="#" target="_blank"> </a>
+* 🚀 **Currently working on / 目前的在做的專案:** <a href="https://jee-git-ctrl.github.io/Algo-Visualise/" target="_blank" rel="noopener noreferrer">https://jee-git-ctrl.github.io/Algo-Visualise/</a>
 
 ### Skills
 <p align="left">
